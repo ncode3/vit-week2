@@ -1,45 +1,21 @@
-# Week 2 Exercise
+# HTML
 
-The objective is to gain experience with git, html, and css.
+Bob is hiring you to build his website and out of excitement, he bought the domain before you completed his portfolio. Let's put a temporary landing page!
 
-There are 5 branches with different instructions of what needs to be accomplished.
+## Start Here
 
-## Start Here:
+You're **only** going to work inside of the index.html page for this exercise.
 
-### Update THIS readme with the answers to the following questions:
+Look around the css file to gain some familiarity.
 
-check for any changes in the repo:
+This is the CSS-first approach.
 
-```git
-[change me]
-```
+### The objective
 
-retrieve a list of all the branches:
+- A main background for the whole page. The image has been set, so you just need add the most parent element within the body tag, an id: `background` and class: `center`.
+- Add an input tag underneath the h2 with an id: `input`
+- Add a button with the text "Submit" after the input tag
 
-```git
-[change me]
-```
+Don't forget to commit! The message will be `[Name] has completed Part 2.`
 
-creation of a new branch:
-
-```git
-[change me]
-```
-
-staging file(s) to the current branch:
-
-```git
-[change me]
-```
-
-locking in the staged files to the current branch:
-
-```git
-[change me]
-```
-
-After completing, commit to this master branch with the message "[Name] updated the master README"
-
-Switch to the branch that represents this month.
-
-To mark completion of this exercise, you must commit at every branch!
+Next, head over to the disney movie branch

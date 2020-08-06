@@ -1,0 +1,12 @@
+#background {
+  background-image: url("http://i.imgur.com/");
+}
+
+.center {
+  align-items: center;
+  text-align: center;
+}
+
+#input {
+  border-radius: 5px;
+}
