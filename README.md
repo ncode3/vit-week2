@@ -1,15 +1,8 @@
-# Part 3
-
-The objective is to see the power of css and documentation! We will be referring to MDN!
+# Part 4
 
 ## Start Here
 
-The branch name is Frozen, so we're going to build a snowman!
+1. In the body, just add your name.
+2. Ask about how to perform a pull request in the zoom!
 
-Complete the other arm!
-
-BONUS: Can you add eyes and a nose?
-
-Commit Message: `[Name] has completed part 3`
-
-Switch to that is "you" x2.
+The end.
