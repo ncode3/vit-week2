@@ -4,9 +4,9 @@ The objective is to gain experience with git, html, and css.
 
 There are 5 branches with different instructions of what needs to be accomplished.
 
-## Start Here:
+## Start Here
 
-### Update THIS readme with the answers to the following questions:
+### Update THIS readme with the answers to the following questions
 
 check for any changes in the repo:
 
